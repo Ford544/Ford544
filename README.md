@@ -1,5 +1,12 @@
-## Hi there 👋
-
+<h3> My projects: </h3>
+<h5> https://github.com/JanSzyndlarewicz/Lets-go-out </h5>
+Web application made with Flask. (Group project)
+<h5> https://github.com/JanSzyndlarewicz/Academic-Graph-Analytics </h5>
+A graph-based analysis of citation patterns. (Group project)
+<h5> https://github.com/Ford544/PROJEKT_JS-L </h5>
+A simple checkers application made with Python and Pyside. (Individual)
+<h5> https://github.com/Ford544/MSiDProjekt </h5>
+Analysis of air pollution patterns in Wrocław. (Individual)
 <!--
 **Ford544/Ford544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
